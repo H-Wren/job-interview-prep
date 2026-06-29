@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Application Research"
+  short_description: "Research employers and prepare interviews."
+  default_prompt: "Use $job-application-research to research target companies and JDs, assess my resume fit, and prepare likely interview questions."
